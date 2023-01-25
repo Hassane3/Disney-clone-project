@@ -1,4 +1,4 @@
-# Disney + clone website
+# Disney plus clone website
 
 A disney plus website cloned with React.js : disneyplus-clone-70347.web.app
 
